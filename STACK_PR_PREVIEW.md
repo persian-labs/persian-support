@@ -9,3 +9,7 @@ The first pull request adds the base preview file.
 ## Part 2
 
 The second pull request targets the first branch and adds this section.
+
+## Part 3
+
+The third pull request targets the second branch and completes the stack preview.
