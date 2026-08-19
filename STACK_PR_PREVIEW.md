@@ -5,3 +5,7 @@ This file creates a small three-part stack for checking how stacked pull request
 ## Part 1
 
 The first pull request adds the base preview file.
+
+## Part 2
+
+The second pull request targets the first branch and adds this section.
